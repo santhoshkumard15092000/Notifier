@@ -1,0 +1,4 @@
+.env
+LunchNotifier.py
+__pycache__/
+*.pyc
